@@ -37,10 +37,10 @@ import {
       id: "projects",
       title: "Projects",
     },
-    {
-      id: "testimonnials",
-      title: "Testimonials",
-    },
+    // {
+    //   id: "testimonnials",
+    //   title: "Testimonials",
+    // },
     {
       id: "contact",
       title: "Contact",
