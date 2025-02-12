@@ -57,10 +57,6 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
-    },
-    {
       title: "Software Developer",
       icon: creator,
     },
@@ -135,7 +131,7 @@ import {
   
   const experiences = [
     {
-      title: "Full Stack Developer",
+      title: "Full Stack Developer - Graduate Assistant",
       company_name: "CETLOE",
       icon: '/gsu.jpg',
       iconBg: "#383E56",
@@ -151,7 +147,7 @@ import {
       ],
     },
     {
-      title: "Software Developer",
+      title: "Software Developer Intern",
       company_name: "SoulPage IT Solutions",
       icon: './soulpage.jpg',
       iconBg: "#E6DEDD",
